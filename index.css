@@ -1,0 +1,23 @@
+#parent{
+    background-color: orange;
+}
+
+#child {
+    margin: 0 auto;
+    text-align: center;
+    width: 50%;
+    background-color: red;
+}
+#child2 {
+    margin: 0 auto;
+    text-align: center;
+    width: 50%;
+    background-color: black;
+}
+
+h1{
+    color: cyan;
+}
+h2{
+    color: wheat;
+}

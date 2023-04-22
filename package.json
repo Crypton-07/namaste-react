@@ -1,0 +1,23 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is a tutorial about React by Akshay Saini",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Crypton-07/namaste-react.git"
+  },
+  "keywords": [
+    "namaste",
+    "react"
+  ],
+  "author": "Vishesh Prajapati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Crypton-07/namaste-react/issues"
+  },
+  "homepage": "https://github.com/Crypton-07/namaste-react#readme"
+}
